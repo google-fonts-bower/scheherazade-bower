@@ -1,0 +1,17 @@
+{
+    "name": "scheherazade-googlefont",
+    "license": "OFL",
+    "authors": [
+        "SIL International"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/scheherazade-bower.git"
+    },
+    "description": "Scheherazade font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
